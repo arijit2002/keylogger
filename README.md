@@ -1,3 +1,3 @@
 # keylogger
 
-for windows only
+for *_windows_* only
